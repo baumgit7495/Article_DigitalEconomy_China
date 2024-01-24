@@ -1,0 +1,1 @@
+ The Financial data used in this data analysis was downloaded from Bloomberg. Due to its proprietary nature, this github repisotry only includes the filtering criteria for the Bloomberg terminal as well as the R-Code and a knitted (HTML) rmd file.
